@@ -1,2 +1,3 @@
 # ImageCache
-using to preserve some pictures!  = =
+Using to preserve some pictures!  
+Please ignore me = =.
